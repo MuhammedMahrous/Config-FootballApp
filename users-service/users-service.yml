@@ -1,3 +1,6 @@
+configobj:
+  configval: someval
+
 eureka:
   client:
     service-url:
