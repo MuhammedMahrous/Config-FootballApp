@@ -1,9 +1,0 @@
-management:
-  endpoint:
-    routes:
-      enabled: true
-      
-  endpoints:
-    web:
-      exposure:
-        include: routes
